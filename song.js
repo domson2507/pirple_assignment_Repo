@@ -1,0 +1,9 @@
+var artist = "Shatta Wale"
+var songTitle = "Enter the Net"
+var genre = "Dance Hall"
+var durationInSeconds = 240;
+var hasWonAwards = true;
+var numberOfAwardsWon = 1;
+var yearOfRelease = 2018;
+var albumName = "single"
+var likedBy = ["DJ Black", "DJ Mic-Smith", "DJ Vyrusky", "DJ Sly", "DJ Aroma"];
